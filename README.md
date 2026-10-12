@@ -6,9 +6,9 @@ Punkte, Sätze, Timeouts und das Layout.
 
 ## Screenshots
 
-| Anzeige | Steuerpult |
-|---------|------------|
-| ![Anzeige](screenshots/01-anzeige.jpg) | ![Steuerpult](screenshots/02-steuerpult.jpg) |
+| Anzeige | Steuerpult | Mobile-Ansicht |
+|---------|------------|----------------|
+| ![Anzeige](screenshots/01-anzeige.jpg) | ![Steuerpult](screenshots/02-steuerpult.jpg) | ![Mobile-Ansicht](screenshots/03-mobil.jpg) |
 
 ## Funktionen
 
