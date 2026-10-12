@@ -1,0 +1,10 @@
+{
+  "name": "Scoreboard Admin",
+  "short_name": "Scoreboard",
+  "start_url": "admin.php",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "icons": []
+}
